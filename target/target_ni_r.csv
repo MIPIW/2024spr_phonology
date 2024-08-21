@@ -1,0 +1,14 @@
+,name,word,start_x,end_x,sex,age,principal_residence,vowel,path,start_y,mid,end_y,consonant,status,mid_vowel,ratio
+48,SDRW2000000676.1.1.170.wav,뉴스를,17920.0,26560.0,여성,20대,서울,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2000000676.1.1.170.wav,506.0,576.0,655.0,R,cute!,ㅠ,0.47
+114,SDRW2000001645.1.1.204.wav,니글니글,0.0,16000.0,남성,20대,서울,ㄴㅣㄱ,/home/hyohyeongjang/phonology/ni/SDRW2000001645.1.1.204.wav,719.0,785.0,899.0,R,cute!,ㅣ,0.367
+180,SDRW2100000388.1.1.259.wav,뉴스에,6400.0,16320.0,여성,20대,서울,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2100000388.1.1.259.wav,472.0,626.0,676.0,R,cute!,ㅠ,0.755
+625,SDRW2100003792.1.1.55.wav,뉴스를,6400.0,15680.0,여성,20대,경기,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2100003792.1.1.55.wav,491.0,723.0,752.0,R,cute!,ㅠ,0.889
+666,SDRW2100003842.1.1.65.wav,뉴스를,41600.0,50240.0,남성,20대,경기,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2100003842.1.1.65.wav,534.0,753.0,786.0,R,cute!,ㅠ,0.869
+725,SDRW2100004013.1.1.87.wav,뉴스에,8320.0,18240.0,여성,20대,서울,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2100004013.1.1.87.wav,632.0,692.0,734.0,R,cute!,ㅠ,0.588
+805,SDRW2100004156.1.1.55.wav,뉴스를,33600.0,40000.0,여성,20대,서울,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2100004156.1.1.55.wav,562.0,600.0,636.0,R,cute!,ㅠ,0.514
+1013,SDRW2200000684.1.1.215.wav,니즈를,4160.0,13760.0,남성,20대,경기,ㄴㅣㅈ,/home/hyohyeongjang/phonology/ni/SDRW2200000684.1.1.215.wav,480.0,657.0,718.0,R,cute!,ㅣ,0.744
+1014,SDRW2200000698.1.1.204.wav,니들,0.0,6400.0,남성,20대,경기,ㄴㅣㄷ,/home/hyohyeongjang/phonology/ni/SDRW2200000698.1.1.204.wav,111.0,237.0,334.0,R,cute!,ㅣ,0.565
+1019,SDRW2200000748.1.1.154.wav,뉴스에서,13120.0,24960.0,여성,20대,경기,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2200000748.1.1.154.wav,591.0,765.0,794.0,R,cute!,ㅠ,0.857
+1196,SDRW2200002491.1.1.114.wav,니트를,24000.0,30080.0,남성,20대,서울,ㄴㅣㅌ,/home/hyohyeongjang/phonology/ni/SDRW2200002491.1.1.114.wav,451.0,584.0,642.0,R,cute!,ㅣ,0.696
+1212,SDRW2200002587.1.1.23.wav,뉴진스나,0.0,12480.0,남성,20대,서울,ㄴㅠㅈ,/home/hyohyeongjang/phonology/ni/SDRW2200002587.1.1.23.wav,0.0,218.0,261.0,R,cute!,ㅠ,0.835
+1215,SDRW2200002590.1.1.4.wav,뉴진스,9600.0,17280.0,여성,20대,서울,ㄴㅠㅈ,/home/hyohyeongjang/phonology/ni/SDRW2200002590.1.1.4.wav,561.0,641.0,681.0,R,cute!,ㅠ,0.667

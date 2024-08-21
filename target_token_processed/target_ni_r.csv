@@ -1,0 +1,14 @@
+,name,word,token,start_x,end_x,sex,age,principal_residence,vowel,path,start_y,mid,end_y,consonant,status,mid_vowel,ratio
+48,SDRW2000000676.1.1.170.wav,뉴스를,뉴스,17920,26560,여성,20대,서울,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2000000676.1.1.170.wav,506,576,655,R,cute!,ㅠ,0.47
+114,SDRW2000001645.1.1.204.wav,니글니글,니글니글,0,16000,남성,20대,서울,ㄴㅣㄱ,/home/hyohyeongjang/phonology/ni/SDRW2000001645.1.1.204.wav,719,785,899,R,cute!,ㅣ,0.367
+180,SDRW2100000388.1.1.259.wav,뉴스에,뉴스,6400,16320,여성,20대,서울,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2100000388.1.1.259.wav,472,626,676,R,cute!,ㅠ,0.755
+625,SDRW2100003792.1.1.55.wav,뉴스를,뉴스,6400,15680,여성,20대,경기,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2100003792.1.1.55.wav,491,723,752,R,cute!,ㅠ,0.889
+666,SDRW2100003842.1.1.65.wav,뉴스를,뉴스,41600,50240,남성,20대,경기,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2100003842.1.1.65.wav,534,753,786,R,cute!,ㅠ,0.869
+725,SDRW2100004013.1.1.87.wav,뉴스에,뉴스,8320,18240,여성,20대,서울,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2100004013.1.1.87.wav,632,692,734,R,cute!,ㅠ,0.588
+805,SDRW2100004156.1.1.55.wav,뉴스를,뉴스,33600,40000,여성,20대,서울,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2100004156.1.1.55.wav,562,600,636,R,cute!,ㅠ,0.514
+1013,SDRW2200000684.1.1.215.wav,니즈를,니즈,4160,13760,남성,20대,경기,ㄴㅣㅈ,/home/hyohyeongjang/phonology/ni/SDRW2200000684.1.1.215.wav,480,657,718,R,cute!,ㅣ,0.744
+1014,SDRW2200000698.1.1.204.wav,니들,니들,0,6400,남성,20대,경기,ㄴㅣㄷ,/home/hyohyeongjang/phonology/ni/SDRW2200000698.1.1.204.wav,111,237,334,R,cute!,ㅣ,0.565
+1019,SDRW2200000748.1.1.154.wav,뉴스에서,뉴스,13120,24960,여성,20대,경기,ㄴㅠㅅ,/home/hyohyeongjang/phonology/ni/SDRW2200000748.1.1.154.wav,591,765,794,R,cute!,ㅠ,0.857
+1196,SDRW2200002491.1.1.114.wav,니트를,니트,24000,30080,남성,20대,서울,ㄴㅣㅌ,/home/hyohyeongjang/phonology/ni/SDRW2200002491.1.1.114.wav,451,584,642,R,cute!,ㅣ,0.696
+1212,SDRW2200002587.1.1.23.wav,뉴진스나,뉴진스,0,12480,남성,20대,서울,ㄴㅠㅈ,/home/hyohyeongjang/phonology/ni/SDRW2200002587.1.1.23.wav,0,218,261,R,cute!,ㅠ,0.835
+1215,SDRW2200002590.1.1.4.wav,뉴진스,뉴진스,9600,17280,여성,20대,서울,ㄴㅠㅈ,/home/hyohyeongjang/phonology/ni/SDRW2200002590.1.1.4.wav,561,641,681,R,cute!,ㅠ,0.667

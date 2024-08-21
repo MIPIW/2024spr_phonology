@@ -1,0 +1,4 @@
+,name,word,token,start_x,end_x,sex,age,principal_residence,vowel,path,start_y,mid,end_y,consonant,status,mid_vowel,ratio
+949,SDRW2200000135.1.1.510.wav,니체가,니체,0,7360,남성,20대,경기,ㄴㅣㅊ,/home/hyohyeongjang/phonology/ni/SDRW2200000135.1.1.510.wav,119,231,312,D,cute!,ㅣ,0.58
+1041,SDRW2200000948.1.1.247.wav,뉴진스만의,뉴진스,7040,25600,남성,20대,경기,ㄴㅠㅈ,/home/hyohyeongjang/phonology/ni/SDRW2200000948.1.1.247.wav,382,437,880,E,cute!,ㅠ,0.11
+1200,SDRW2200002527.1.1.380.wav,녀석들이,녀석,6720,19200,남성,20대,경기,ㄴㅕㅅ,/home/hyohyeongjang/phonology/ni/SDRW2200002527.1.1.380.wav,337,400,822,E,cute!,ㅕ,0.13
